@@ -1,0 +1,25 @@
+{
+  "name": "livshop",
+  "version": "1.0.0",
+  "description": "Yafit's Online shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yafitlivshitz/Livshop.git"
+  },
+  "author": "Yafit Livshitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yafitlivshitz/Livshop/issues"
+  },
+  "homepage": "https://github.com/yafitlivshitz/Livshop#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1",
+    "uuid": "^3.3.3"
+  }
+}
